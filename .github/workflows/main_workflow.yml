@@ -31,4 +31,4 @@ jobs:
 
     # Run the app
     - name: Run the App
-      run: dotnet run -p TelCo.ColorCoder
+      run: dotnet run -p TelCo.ColorCoder 
